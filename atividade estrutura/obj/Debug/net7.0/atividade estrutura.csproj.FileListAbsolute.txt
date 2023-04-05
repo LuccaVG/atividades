@@ -1,0 +1,15 @@
+C:\Users\54297548895\Desktop\atividade estrutura\bin\Debug\net7.0\atividade estrutura.exe
+C:\Users\54297548895\Desktop\atividade estrutura\bin\Debug\net7.0\atividade estrutura.deps.json
+C:\Users\54297548895\Desktop\atividade estrutura\bin\Debug\net7.0\atividade estrutura.runtimeconfig.json
+C:\Users\54297548895\Desktop\atividade estrutura\bin\Debug\net7.0\atividade estrutura.dll
+C:\Users\54297548895\Desktop\atividade estrutura\bin\Debug\net7.0\atividade estrutura.pdb
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.csproj.AssemblyReference.cache
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.AssemblyInfoInputs.cache
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.AssemblyInfo.cs
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.csproj.CoreCompileInputs.cache
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.dll
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\refint\atividade estrutura.dll
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.pdb
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\atividade estrutura.genruntimeconfig.cache
+C:\Users\54297548895\Desktop\atividade estrutura\obj\Debug\net7.0\ref\atividade estrutura.dll
